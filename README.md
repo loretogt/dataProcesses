@@ -1,10 +1,10 @@
 # Data Processes
 
 ## Autors:
-* Fomperosa San Sebastián, Jaime
-* García Tejada, Loreto
-* Gutiérrez Martín, María
-* Stan, George Alexandru
+* Fomperosa San Sebastián, Jaime (MUII) 
+* García Tejada, Loreto (Data Science EIT) 
+* Gutiérrez Martín, María (MUII) 
+* Stan, George Alexandru (MUII) 
 
 ## Files delivered:
 * dataProcesses.ipynb: It contains all the technical part done in Python. It contains the analysis of the data, the preprocessed data and the execution of different models. 
