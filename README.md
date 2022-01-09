@@ -11,3 +11,4 @@
 * Report: This is the project report, which is divided into two parts. 
     * Project plan: It contains an introduction, preliminary concepts, the goals, the work plan, the risk plan and the budget. 
     * Technical report: The analysis and code that has been developed is explained. It contains the data exploration, data visualization, data preprocessing, explanatory data analysis and data modeling. 
+* COVID19_data.csv: These are the data used in the technical part. 
